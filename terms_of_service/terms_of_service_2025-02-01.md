@@ -1,9 +1,15 @@
 # Fondu Technologies, Inc Terms of Service
 
-Effective Date: March 20, 2024
+Effective Date: 2/1/25
+Welcome to Fondu! These Terms of Service ("Terms") govern your use of Fondu's services.  By using our services, you hereby agree to the Terms herein. 
 
-Thank you for using Fondu! (“Fondu”, “We”, “Us”). Please read these terms and conditions carefully before using Our
-Service.
+Definitions
+- "Fondu," "we," "us" refers to Fondu Technologies, Inc
+- "Service" means https://www.youfondu.com and related services
+- "Knowledge Object" means user-created content units within Fondu
+- "Content" means any information you provide or create
+- "Account" means your registered account with Fondu
+
 
 ## Interpretation and Definitions
 
@@ -12,7 +18,7 @@ Service.
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following
 definitions shall have the same meaning regardless of whether they appear in singular or in plural.
 
-### Definitions
+
 
 For the purposes of these Terms and Conditions:
 
